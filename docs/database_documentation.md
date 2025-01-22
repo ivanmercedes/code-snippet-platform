@@ -3,7 +3,7 @@
 Usando la herramienta de modelado de base de datos [dbdiagram.io](https://dbdiagram.io/) se planteo el siguiente esquema:
 
 Preview del esquema:
-
+![alt text](images/db.png)
 codigo:
 
 ```
