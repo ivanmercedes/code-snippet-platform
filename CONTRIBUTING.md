@@ -1,6 +1,6 @@
 ## Requisitos para Contribuir
 
-1. **Pruebas:** Para contribuir tienes que asegrartete de incluir pruebas unitarias o funcionales cuando agregues nuevas funcionalidades.
+1. **Pruebas:** Para contribuir tienes que asegurarte de incluir pruebas unitarias o funcionales cuando agregues nuevas funcionalidades.
 2. **Documentación:**
     - Actualiza el archivo `README.md` con un resumen de los cambios o las nuevas funciones que implementes.
     - Explica en detalle las nuevas funcionalidades en `docs/features.md`. Incluye descripciones claras, ejemplos de uso, capturas de pantalla (si aplica) y cualquier configuración adicional que sea necesaria.
